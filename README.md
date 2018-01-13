@@ -2,7 +2,7 @@ The app is works using several api such as Google Place Picker, Google Map View 
 
 The Flow of app is as below:
 
-SIGN IN ACTIVITY
+SIGN IN ACTIVITY:
             Does the job of authentication of user
             For right now, oonly google authentication is implemented. Other sign in methods including sign in using mail etc.
                 
