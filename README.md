@@ -32,7 +32,7 @@ Database:
               root
                 -users:
                     -<any user's unique id>
-                        -contacts
+                        -contacts:
                             -<unique contact id>
                                 - "name" : <saved name>
                                 - "number" : <saved number>
