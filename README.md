@@ -58,3 +58,6 @@ Also, retrieval becomes easy since we can easily locate any user with uid.
 Scope of Improvement:
 - UI of the app is primitive. It can be changed to become more user friendly
 - For now, only google authentication is used. More authentication modes can be added
+
+Note: 
+The app has functionality to sign out. But if you want to log in with another account, you will have to clear the data of the app.
