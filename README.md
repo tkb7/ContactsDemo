@@ -28,6 +28,7 @@ The functionality of the each class is written in the comments in the classes.
 Database:
           I have used firebase realtime database for this project.
           The format of the data stored is as follows:
+          
               root
                 -users:
                     -<any user's unique id>
