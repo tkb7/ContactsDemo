@@ -1,4 +1,4 @@
-The app is works using several api such as Google Place Picker, Google Map View and Firebase
+The app works using several api such as Google Place Picker, Google Map View and Firebase
 
 The Flow of app is as below:
 
